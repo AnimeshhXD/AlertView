@@ -9,11 +9,14 @@ A fully responsive, animated news application built with **HTML, CSS, and JavaSc
 
 ## 📸 Screenshots
 PC view : 
-<img width="1890" height="906" alt="image" src="https://github.com/user-attachments/assets/9a70e318-0c6d-4c09-bccf-68a71c0dcdf4" />
+
+<img width="1894" height="899" alt="image" src="https://github.com/user-attachments/assets/375a564f-5edb-4dc3-9ed6-b761514d67e6" />
+
 --- 
 Mobile view : 
 
-<img width="277" height="582" alt="image" src="https://github.com/user-attachments/assets/c6fa45dc-b306-482a-b701-4963fb8d36cc" />
+<img width="266" height="587" alt="image" src="https://github.com/user-attachments/assets/7506a883-85d7-466c-a180-12c70227d5c2" />
+
 
 
 ---
