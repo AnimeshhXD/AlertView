@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AlertView</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <nav>
+        <div class="logo">📰AlertView</div>
+        <ul>
+            <li><a href="#" data-category="general" class="active">Home</a></li>
+            <li><a href="#" data-category="technology">Technology</a></li>
+            <li><a href="#" data-category="sports">Sports</a></li>
+            <li><a href="#" data-category="entertainment">Entertainment</a></li>
+            <li><a href="#" data-category="health">Health</a></li>
+        </ul>
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Search news..." />
+            <button id="searchBtn">🔍</button>
+        </div>
+    </nav>
+
+    <!-- NEWS CONTAINER -->
+    <main id="newsContainer"></main>
+
+    <script src="script.js"></script>
+</body>
+</html>
