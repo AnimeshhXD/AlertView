@@ -85,8 +85,11 @@ const API_KEY = "your_api_key_here";
 
 ### 🙌 Future Improvements
 Add hamburger menu for nav on mobile
+
 Integrate infinite scroll for more news
+
 Add dark mode toggle
+
 Use a framework like React for a scalable version
 
 ### ✨ Portfolio Value
