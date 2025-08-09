@@ -84,20 +84,24 @@ Update the script.js with your API key like so:
 const API_KEY = "your_api_key_here";
 
 ### 🙌 Future Improvements
-Add hamburger menu for nav on mobile
+1.Add hamburger menu for nav on mobile
 
-Integrate infinite scroll for more news
+2.Integrate infinite scroll for more news
 
-Add dark mode toggle
+3.Add dark mode toggle
 
-Use a framework like React for a scalable version
+4.Use a framework like React for a scalable version
 
 ### ✨ Portfolio Value
-This project highlights your skills in:
-Responsive Web Design
-Working with APIs
-Clean UI/UX with animations
-Vanilla JavaScript DOM manipulation
+This project highlights my skills in:
+
+1.Responsive Web Design
+
+2.Working with APIs
+
+3.Clean UI/UX with animations
+
+4.Vanilla JavaScript DOM manipulation
 
 ### 📜 License
 This project is open source and free to use under the MIT License.
